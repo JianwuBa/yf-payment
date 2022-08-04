@@ -1,0 +1,22 @@
+{
+  "name": "bjw-table",
+  "version": "1.1.12",
+  "description": "支付",
+  "main": "bjw-table.common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:JianwuBa/yf-payment.git"
+  },
+  "keywords": [
+    "友付支付"
+  ],
+  "author": "bai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JianwuBa/yf-payment/issues"
+  },
+  "homepage": "https://github.com/JianwuBa/yf-payment#readme"
+}
